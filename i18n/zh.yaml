@@ -31,3 +31,12 @@
 
 - id: code_copied
   translation: "已复制！"
+
+- id: posts
+  translation: "文章"
+
+- id: archives
+  translation: "时间轴"
+
+- id: about
+  translation: "关于"
